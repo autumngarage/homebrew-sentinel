@@ -1,8 +1,8 @@
 class Sentinel < Formula
   desc "Autonomous meta-agent for managing software projects across multiple LLM providers"
   homepage "https://github.com/henrymodisett/sentinel"
-  url "https://github.com/henrymodisett/sentinel/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "a1b7685d91e4623ae8bddd763cd47aae53c6b6ec910c93ff83c4b5b131b0890e"
+  url "https://github.com/henrymodisett/sentinel/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "96723e948d792dd648254ee98af0c3eda06c6f66e4f453ab847e4ddc6e0978f9"
   license "MIT"
 
   depends_on "python@3.11"
